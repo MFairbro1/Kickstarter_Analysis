@@ -1,2 +1,2 @@
-# Kickstarter_Analysis
+# kickstarter-analysis
 Analysis of Kickstarter data to uncover trends
